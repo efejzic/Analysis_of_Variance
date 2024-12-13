@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This analysis will look at a linear model to partition the total variation (variance) for a variable of interest using one categorical variable (one-way ANOVA), or two categorical variables (two-way ANOVA) as the model (explained variation). An SRS of 80 will be drawn independently from three populations based on diet quality (good diet, fair diet, and poor diet) from a total of 350 subjects each and analyzed using Minitab statistical software.
+This analysis will look at a linear model to partition the total variation (variance) for a variable of interest using one categorical variable (one-way ANOVA), or two categorical variables (two-way ANOVA) as the model (explained variation). An SRS of 80 will be drawn independently from three populations based on diet quality (good diet, fair diet, and poor diet) from a total of 350 subjects each and analyzed using **Minitab statistical software**.
 
 **Objectives**
 
